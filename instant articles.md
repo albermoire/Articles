@@ -9,3 +9,4 @@ Despues de tener un blog en medium la idea es probar con la integración con FB 
 ## Primeros pasos
 1. Crear la cuenta en https://instantarticles.fb.com/
 2. Elegir la página con la que se desea usar y aceptar los términos de uso
+3. Importar página y RSS Feed.
