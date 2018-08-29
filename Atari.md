@@ -7,15 +7,15 @@ En los años 70 Atari represento unas de las primeras compañias tecnológicas c
 
 Este documental repersenta el auge y caida de esta empresa revolucionaria.
 
-#Video Games: The Movie
+# Video Games: The Movie
 La computación moderna literalmente comenzó como un juego.
 
-#Inside Google
+# Inside Google
 Larry y Sergei
 
 https://www.youtube.com/watch?v=v-hirHnBcak
 
-#Software Libre
+# Software Libre
 A mediados de los años 80s Apple comenzó su debacle después de la salida de Steve Jobs, y Microsoft comenzó su auge gracias a un modelo de negocio innovador basado en el licenciamiento del software (Inicialmente del sistema operativo MS Windows).
 
 microsoft se acogió al esquema del software privativo o de codigo cerrado, es decir, no se podría conocer o modificar el codigo fuente del software. Esto impedía de programadores exploraran, experimentaran o copiaran el código. Aún así existía desde los años 70s comunidades de desarrolladores interesados en compartir y colaborar el código fuente. Uno de ellos fue Richard Stallman.
